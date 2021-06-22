@@ -96,6 +96,7 @@ List of IPTV providers.
 
 #### Paid
 
+- [SkipDeer IPTV](https://skipdeer.com/) - Over 40000K live TV channels + 30,000K Movies & TV Shows (VOD).
 - [IPTV Shop](https://iptv.shop/) - Over 6000 live TV channels + 4000 Movies & TV Shows (VOD).
 - [BestBuyIPTV](https://bestbuyiptv.com/) - Over 7300 HD channels and 9600 VOD 1080p, of more than 38 countries.
 - [Edem.tv](https://edem.tv/) - Over 400 Russian IPTV channels and archive of programs for 4 days.
